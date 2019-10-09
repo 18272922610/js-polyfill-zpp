@@ -1,0 +1,12 @@
+{
+  "name": "js-polyfill-zpp",
+  "version": "1.0.1",
+  "description": "用于myBind函数测试以及myReduce函数测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zpp",
+  "license": "ISC"
+}
